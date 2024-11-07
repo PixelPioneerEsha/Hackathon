@@ -1,0 +1,75 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: white;
+    margin: 0px;
+    padding: 150px;
+}
+.resume-container{
+    display: flex;
+    background-color: white;
+    width: 80%;
+    margin: 0 auto;
+    border-radius: 10px;
+    box-shadow: 0 0 20px black;
+}
+.left-sec{
+    background-color: white;
+    padding: 20px;
+    width: 35%;
+    text-align: center;
+    border-right: 5px solid blueviolet;
+}
+.profile{
+    width: 200px;
+    height: 200px;
+    margin-top: 10%;
+    border-radius: 80%;
+    border: 5px solid blueviolet;
+    margin-bottom: 20px;
+}
+h1{
+    font-size: 24px;
+    margin: 10px 0;
+    margin-bottom: 30px;
+    text-align: center;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h3{
+    font-size: 18px;
+    padding: 2%;
+    margin: 20px 0 10px;
+    background-color: black;
+    border-radius: 60px;
+    box-shadow: 0 0 15px blueviolet;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+.right-section{
+ background-color: white;
+ padding-top: 14px; 
+ padding-right: 15px;
+ font-size: 18px;  
+ text-align: left;
+ margin-left: 18px;
+}
+.Personal-information{
+    padding-right: 15px;
+    padding-left: 15px;
+    text-align: center;
+}
+h2{
+    font-size: 21px;
+    padding: 2%;
+    margin: 18px 0 20px;
+    background-color: black;
+    border-radius: 60px;
+    box-shadow: 0 0 15px blueviolet;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
